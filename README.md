@@ -10,4 +10,4 @@ Good luck,
 Andres Gomez Casanova
 From Colombia to the World.
 Db2 DBA, OpenStreetMap mapper, and many more other interesting things.
-[@angoca[(twitter.com/angoca)
+[@angoca](twitter.com/angoca)
